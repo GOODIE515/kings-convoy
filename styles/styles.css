@@ -16,3 +16,17 @@ h1{
 body{
     font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.headerContainer{
+    margin: auto;
+    max-width: 1170px;
+    background-color: red;;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerContainer img{
+    width: 80px;
+    border-radius: 50%;
+}
